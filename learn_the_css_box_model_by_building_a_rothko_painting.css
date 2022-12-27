@@ -38,4 +38,5 @@
     height: 28%;
     background: #b20403;
     margin: auto;
+    filter: blur(2px);
 }
