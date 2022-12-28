@@ -36,3 +36,9 @@ body {
     object-fit: cover;
     border-radius: 10px;
 }
+
+.gallery::after {
+    content: "";
+    justify-content: center;
+    width: 350px;
+}
